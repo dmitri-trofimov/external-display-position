@@ -1,0 +1,9 @@
+# Built binaries
+*.exe
+
+# Local machine-specific configuration and logs
+config.json
+config.local.json
+*.bak
+*.tmp
+*.log
